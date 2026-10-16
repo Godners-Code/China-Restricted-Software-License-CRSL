@@ -2,10 +2,10 @@
 
 此仓库存放中国限定软件许可协议（CRSL）v1.0 的全部授权文件，包括以下本地化版本：
 
-- 简体中文版（正式版本）
-- 繁体中文版（香港特别行政区）
-- 繁体中文版（台湾省）
-- 英文版（United States）
+- [简体中文版（正式版本）](LICENSE.zh-CN.md)
+- [繁体中文版（香港特别行政区）](LICENSE.zh-HK.md)
+- [繁体中文版（台湾省）](LICENSE.zh-TW.md)
+- [英文版（United States）](LICENSE.en-US.md)
 
 **简体中文版本为唯一官方正式版本，在解释或适用时优先于所有其他版本。**
 
@@ -13,10 +13,10 @@
 
 | 文件名 | 语言 | 参考地区 |
 | :----: | :----: | :----: |
-| LICENSE.zh-CN.md | 简体中文 | 正式版本，全球 |
-| LICENSE.zh-HK.md | 繁体中文 | 香港特别行政区 |
-| LICENSE.zh-TW.md | 繁体中文 | 台湾省 |
-| LICENSE.en-US.md | 英文 | 美国联邦 |
+| [LICENSE.zh-CN.md](LICENSE.zh-CN.md) | 简体中文 | 正式版本，全球 |
+| [LICENSE.zh-HK.md](LICENSE.zh-HK.md) | 繁体中文 | 香港特别行政区 |
+| [LICENSE.zh-TW.md](LICENSE.zh-TW.md) | 繁体中文 | 台湾省 |
+| [LICENSE.en-US.md](LICENSE.en-US.md) | 英文 | 美国联邦 |
 
 ## 仓库目的
 
