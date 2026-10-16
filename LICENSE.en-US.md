@@ -1,0 +1,395 @@
+# CHINA RESTRICTED SOFTWARE LICENSE
+
+## CRSL Version 1.0 
+
+### United States Localization
+
+### Version Notice
+
+**This document is a localized English version of the China Restricted Software License (CRSL) Version 1.0.**
+
+**This English version is provided solely for convenience of reference.**
+
+**In the event of any inconsistency, conflict, ambiguity, omission, discrepancy, or difference in interpretation between this English version and the officially published Simplified Chinese version, the Simplified Chinese version shall control and prevail.**
+
+## RECITALS
+
+**The Software and all related materials are protected by applicable intellectual property laws and other applicable laws.**
+
+**Any individual or entity who downloads, installs, accesses, copies, modifies, distributes, deploys, or otherwise uses the Software shall be deemed to have read, understood, and agreed to be bound by the terms and conditions of this License.**
+
+**If you do not agree to all terms of this License, you shall immediately discontinue any use of the Software and destroy all copies thereof.**
+
+## SECTION 1 Definitions
+
+### 1.1 Software
+
+**"Software" means:**
+
+(a) source code;
+
+(b) object code;
+
+(c) executable programs;
+
+(d) scripts;
+
+(e) configuration files;
+
+(f) interface specifications;
+
+(g) documentation;
+
+(h) databases and data structures;
+
+(i) updates;
+
+(j) upgrades;
+
+(k) modifications; and
+
+(l) derivative works.
+
+### 1.2 China
+
+**"China" shall have the meaning assigned in the Authoritative Version of this License.**
+
+**For avoidance of doubt, references to "China" under this License shall be interpreted exclusively in accordance with the Authoritative Version and shall not be affected by any alternative legal, administrative, judicial, geographic, or political interpretation.**
+
+### 1.3 Chinese National
+
+**"Chinese National" means a natural person possessing the nationality required by the Authoritative Version.**
+
+### 1.4 Qualified Chinese Entity
+
+**"Qualified Chinese Entity" means an entity meeting all requirements specified in the Authoritative Version.**
+
+### 1.5 Restricted Person
+
+**"Restricted Person" means:**
+
+(a) any individual who is not a Chinese National;
+
+(b) any entity that is not a Qualified Chinese Entity;
+
+(c) any foreign government;
+
+(d) any international organization;
+
+(e) any person acting on behalf of, under the direction of, or for the benefit of the foregoing persons.
+
+### 1.6 Control
+
+**"Control" includes, without limitation:**
+
+(a) direct ownership;
+
+(b) indirect ownership;
+
+(c) voting control;
+
+(d) contractual control;
+
+(e) trust arrangements;
+
+(f) beneficial ownership;
+
+(g) management control; or
+
+(h) any other arrangement resulting in effective influence or control.
+
+## SECTION 2 License Grant
+
+**Subject to full and continuing compliance with this License, the Copyright Holder grants Qualified Chinese Entities and Chinese Nationals a limited, non-exclusive, non-transferable, revocable license to:**
+
+(a) install the Software;
+
+(b) use the Software;
+
+(c) reproduce the Software;
+
+(d) modify the Software;
+
+(e) create derivative works;
+
+(f) distribute the Software solely within China; and
+
+(g) deploy the Software solely within China.
+
+No rights are granted except those expressly stated herein.
+
+**All rights not expressly granted are reserved.**
+
+## SECTION 3 Territorial Restriction
+
+**The Software may be used only within China.**
+
+**No person shall:**
+
+(a) access;
+
+(b) install;
+
+(c) execute;
+
+(d) host;
+
+(e) distribute;
+
+(f) transmit;
+
+(g) deploy; or
+
+(h) make available
+
+**the Software outside China.**
+
+## SECTION 4 Nationality Restriction
+
+**No person who is not a Chinese National may:**
+
+(a) use the Software;
+
+(b) access the Software;
+
+(c) receive the Software;
+
+(d) modify the Software;
+
+(e) distribute the Software; or
+
+(f) receive any direct or indirect benefit arising from the Software.
+
+## SECTION 5 Entity Restriction
+
+**No entity that is not a Qualified Chinese Entity may:**
+
+(a) use the Software;
+
+(b) control the Software;
+
+(c) operate the Software;
+
+(d) distribute the Software;
+
+(e) commercialize the Software; or
+
+(f) derive any direct or indirect benefit from the Software.
+
+## SECTION 6 Indirect Benefit Prohibition
+
+**The Software shall not be used in any manner that directly or indirectly provides any benefit to a Restricted Person.**
+
+**Prohibited conduct includes, without limitation:**
+
+(a) providing services to Restricted Persons;
+
+(b) providing application programming interfaces (APIs);
+
+(c) providing Software outputs;
+
+(d) developing products for Restricted Persons;
+
+(e) outsourcing services to Restricted Persons;
+
+(f) consulting for Restricted Persons;
+
+(g) facilitating commercial activities for Restricted Persons; and
+
+(h) any arrangement resulting in direct or indirect benefit to a Restricted Person.
+
+## SECTION 7 Cloud and Network Restrictions
+
+**The Software shall not be:**
+
+(a) deployed on servers located outside China;
+
+(b) deployed on cloud infrastructure located outside China;
+
+(c) deployed on infrastructure controlled by Restricted Persons;
+
+(d) provided through Software-as-a-Service (SaaS);
+
+(e) provided through Platform-as-a-Service (PaaS);
+
+(f) provided through Infrastructure-as-a-Service (IaaS);
+
+(g) remotely accessed by Restricted Persons.
+
+## SECTION 8 Beneficial Ownership Requirements
+
+**Each Licensee shall continuously ensure that:**
+
+(a) its ultimate beneficial owners;
+
+(b) its controlling persons;
+
+(c) its directors;
+
+(d) its officers; and
+
+(e) its principal investors
+
+**remain compliant with the requirements of this License.**
+
+**Failure to satisfy such requirements constitutes a material breach.**
+
+## SECTION 9 Anti-Circumvention
+
+**Any arrangement designed to avoid, evade, bypass, or circumvent the restrictions of this License shall constitute a material breach.**
+
+**Prohibited arrangements include, without limitation:**
+
+(a) nominee ownership;
+
+(b) proxy arrangements;
+
+(c) trust arrangements;
+
+(d) offshore structures;
+
+(e) shell entities;
+
+(f) indirect control structures;
+
+(g) sublicensing schemes;
+
+(h) equivalent arrangements.
+
+## SECTION 10 Audit Rights
+
+**The Copyright Holder may request reasonable evidence demonstrating compliance with this License.**
+
+**Such evidence may include:**
+
+(a) corporate records;
+
+(b) ownership records;
+
+(c) beneficial ownership information;
+
+(d) deployment records;
+
+(e) infrastructure records;
+
+(f) other reasonably necessary documentation.
+
+**Failure to provide requested documentation shall constitute a material breach.**
+
+## SECTION 11 Intellectual Property
+
+**All intellectual property rights in and to the Software remain the exclusive property of the Copyright Holder.**
+
+**Nothing in this License shall be construed as:**
+
+(a) an assignment of copyright;
+
+(b) a trademark license;
+
+(c) a patent license; or
+
+(d) a transfer of trade secrets.
+
+## SECTION 12 Disclaimer of Warranties
+
+**THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE."**
+
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION:**
+
+(A) MERCHANTABILITY;
+
+(B) FITNESS FOR A PARTICULAR PURPOSE;
+
+(C) NON-INFRINGEMENT;
+
+(D) ACCURACY;
+
+(E) AVAILABILITY; AND
+
+(F) RELIABILITY.
+
+## SECTION 13 Limitation of Liability
+
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR:**
+
+(A) DIRECT DAMAGES;
+
+(B) INDIRECT DAMAGES;
+
+(C) INCIDENTAL DAMAGES;
+
+(D) CONSEQUENTIAL DAMAGES;
+
+(E) SPECIAL DAMAGES;
+
+(F) EXEMPLARY DAMAGES;
+
+(G) LOSS OF PROFITS;
+
+(H) LOSS OF BUSINESS OPPORTUNITY;
+
+(I) LOSS OF DATA; OR
+
+(J) LOSS OF GOODWILL,
+
+**ARISING OUT OF OR RELATED TO THE SOFTWARE.**
+
+## SECTION 14 Automatic Termination
+
+**This License shall automatically terminate without notice upon:**
+
+(a) violation of this License;
+
+(b) submission of false information;
+
+(c) circumvention of License restrictions;
+
+(d) provision of benefits to Restricted Persons; or
+
+(e) any material breach of this License.
+
+**No judicial action, notice, or demand shall be required.**
+
+## SECTION 15 Obligations Following Termination
+
+**Upon termination, the Licensee shall immediately:**
+
+(a) cease using the Software;
+
+(b) cease distributing the Software;
+
+(c) cease deploying the Software;
+
+(d) remove all installations;
+
+(e) destroy all copies;
+
+(f) destroy all backups; and
+
+(g) cease all services based upon the Software.
+
+## SECTION 16 Governing Law
+
+**This English version is a localized reference version only.**
+
+**The governing law provisions shall be interpreted consistently with the Authoritative Version of the License.**
+
+## SECTION 17 Dispute Resolution
+
+**Any dispute arising out of or relating to this License shall be resolved in accordance with the dispute resolution provisions set forth in the Authoritative Version.**
+
+## SECTION 18 Severability
+
+**If any provision of this License is held invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.**
+
+## SECTION 19 Entire Agreement
+
+**This License constitutes the entire agreement concerning the Software and supersedes all prior or contemporaneous agreements, understandings, negotiations, representations, and communications relating thereto.**
+
+## SECTION 20 Authoritative Version
+
+**The official Simplified Chinese version of CRSL Version 1.0 is the sole authoritative version of this License.**
+
+**This English version is provided solely for convenience and reference.**
+
+**In the event of any conflict, discrepancy, ambiguity, or inconsistency, the official Simplified Chinese version shall prevail.**
